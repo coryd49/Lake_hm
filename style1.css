@@ -1,0 +1,35 @@
+body {
+	background-color: grey;
+}
+
+.header {
+	color: blue;
+}
+.column1 > p {
+	outline: 1px dotted blue;
+	height: 330px;
+	width:  250px;
+	float: left;
+	background-color: white;
+	padding: 30px 20px 50px 20px;
+	
+}
+
+
+.column2 > img {
+	outline: 1px dotted blue;
+	height: 330px;
+	width: 675px;
+	background-color: white;
+	padding: 30px 20px 50px 20px;
+	
+}
+.column3 {
+	outline: 1px dotted blue;
+	height: 330px;
+	width: 150px;
+	float: right;
+	background-color: white;
+	padding: 30px 20px 50px 20px;
+	
+}
